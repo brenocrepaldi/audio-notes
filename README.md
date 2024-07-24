@@ -1,30 +1,30 @@
-# Projeto Notas NLW
+# Audio Transcription Notes
 
-## Descrição
-Este projeto foi desenvolvido como parte da mentoria conduzida pelo professor Diego Fernandes na plataforma da RocketSeat, durante o evento Next Level Week (NLW) Expert. O objetivo central deste projeto é criar uma aplicação versátil capaz de transcrever notas de áudio em texto automaticamente, utilizando uma API própria da web, ou permitindo ao usuário inserir o texto manualmente. Além disso, a aplicação oferece a funcionalidade de salvar as notas no armazenamento do navegador, permitindo acesso posterior. Também inclui recursos de busca e exclusão de notas, proporcionando uma experiência completa de gerenciamento de notas para o usuário.
+## Description
+This project was developed as part of the mentorship conducted by Professor Diego Fernandes on the RocketSeat platform during the Next Level Week (NLW) Expert event. The main objective of this project is to create a versatile application capable of automatically transcribing audio notes into text using a custom web API, or allowing the user to manually input text. Additionally, the application offers the functionality to save notes in browser storage, enabling later access. It also includes features for searching and deleting notes, providing a comprehensive note management experience for the user.
 
-## Tecnologias Utilizadas
-- **HTML:** Linguagem de marcação para estruturação de páginas web.
-- **TypeScript:** Superset do JavaScript que adiciona tipagem estática ao código.
-- **React:** Biblioteca JavaScript para construção de interfaces de usuário.
-- **Tailwind CSS:** Framework CSS utilitário para estilização rápida e flexível.
-- **Radix:** Biblioteca para criação de componentes de interface, como modais.
-- **Vite:** Build tool e bundler para projetos JavaScript e TypeScript.
-- **Lucide:** Biblioteca para importação de ícones SVG, facilitando a inclusão de ícones personalizados na interface.
-- **Date-fns:** Biblioteca para manipulação de datas e horas.
-- **Sooner:** Biblioteca para exibição de notificações estilo toast, permitindo comunicar mensagens ou eventos importantes ao usuário de forma discreta e amigável.
+## Technologies Used
+- **HTML:** Essential for structuring the web pages, ensuring a solid foundation for content and layout.
+- **TypeScript:** Adds static typing to JavaScript, enhancing code quality and maintainability by catching errors early and improving scalability.
+- **React:** Provides a powerful library for building dynamic and responsive user interfaces with reusable components, improving development efficiency.
+- **Tailwind CSS:** Utilizes a utility-first approach for rapid and consistent styling, allowing for flexible design without the need for custom CSS.
+- **Radix:** Facilitates the creation of accessible and customizable interface components, such as modals, which enhance user experience and accessibility.
+- **Vite:** Offers a fast build tool and bundler that improves development speed with instant hot module replacement and optimized production builds.
+- **Lucide:**  Simplifies the inclusion of custom SVG icons, enhancing the visual appeal and functionality of the application’s interface.
+- **Date-fns:** Provides a comprehensive set of functions for date and time manipulation, making it easier to handle and display date-related data.
+- **Sooner:** Enables the display of toast-style notifications, allowing for the effective and non-intrusive communication of important messages and events to users.
 
-## Habilidades Desenvolvidas
-- Desenvolvimento de aplicações web utilizando React;
-- Utilização de TypeScript para tipagem estática e melhor escalabilidade do código;
-- Estilização de interfaces com Tailwind CSS;
-- Integração de APIs da web para funcionalidades específicas, como transcrição de áudio para texto;
-- Utilização de bibliotecas e ferramentas modernas no ecossistema JavaScript/TypeScript.
+## Skills Developed
+- Web application development using React;
+- Utilizing TypeScript for static typing and better code scalability;
+- Styling interfaces with Tailwind CSS;
+- Integrating web APIs for specific functionalities, such as audio-to-text transcription;
+- Using modern libraries and tools in the JavaScript/TypeScript ecosystem.
 
-## Conceitos Importantes Aprendidos em React
-- **Componentes;**
-- **Propriedades (Props);**
-- **Estados (State);**
-- **Ciclos de Vida (Lifecycle);**
+## Important React Concepts Learned
+- **Components;**
+- **Props;**
+- **State;**
+- **Lifecycle;**
 - **Hooks;**
-- **Contextos (Context).**
+- **Context.**
